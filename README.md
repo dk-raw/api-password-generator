@@ -6,7 +6,7 @@ this is an API that returns a JSON object with a strong random password and the 
 
 ## Example
 
-url: https://express-password-generator-api.herokuapp.com/generate/34
+url: https://password-generator-api-express.herokuapp.com/generate/34
 
 response:
 
@@ -21,7 +21,7 @@ response:
 
 ## Docs
 
-To get a password just call https://express-password-generator-api.herokuapp.com/generate/[number of characters].
+To get a password just call https://password-generator-api-express.herokuapp.com//generate/[number of characters].
 
 ---
 
