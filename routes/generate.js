@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+
 const generatePassword = (length) => {
     const charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=<>,./?\|[]{};:`~"
     let password = '';
