@@ -13,7 +13,7 @@ response:
 ```JSON
 {
     "password":"q@Bpb-.RSmWZmGJSRPBo=o+9of!FnF6s%R",
-    "length":"34"
+    "length": 34
 }
 ```
 
